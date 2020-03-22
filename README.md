@@ -11,3 +11,4 @@
      9.   *Matrix Multiplication*
     10.   *Decimal to Binary*
     11.   *Alphabet Triangle*
+    12.   *Number Triangle*
