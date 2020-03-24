@@ -13,4 +13,4 @@ int main()
 	cout<<"Factorial of : "<<n<<" = "<< factorial;
 	return -1;
 
-}
+}  
