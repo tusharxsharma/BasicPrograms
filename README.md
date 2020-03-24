@@ -4,7 +4,7 @@
      2.   *Prime Number*
      3.   *Palindrome Number*
      4.   *Factorial*
-     5.   *Armstrong Number*
+     5.   *Armstrong Number* 
      6.   *Sum of Digits*
      7.   *Reverse of a Number*
      8.   *Swap two Numbers without using third Variable*
