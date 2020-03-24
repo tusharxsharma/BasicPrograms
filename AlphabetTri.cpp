@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main()
-{
+{ 
 	char ch='A';
 	int i,j,k,m;
 	for(i=1;i<5;i++)
