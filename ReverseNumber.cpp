@@ -14,4 +14,4 @@ int main()
 	cout<<"The reversed number is :"<<rev;
 	
 	return -1 ;
-}
+} 
