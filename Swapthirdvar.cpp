@@ -13,4 +13,4 @@ int main()
 	cout<<"Swapped Numbers are : \n";
 	cout<<"a : "<<a<<"\n";
 	cout<<"b : "<<b;
-}
+} 
