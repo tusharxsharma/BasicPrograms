@@ -15,3 +15,4 @@ int main()
    	cout<<"Sum is="<<sum;
    	return 0;
 }
+ 
