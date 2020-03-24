@@ -20,7 +20,7 @@ int main()
 			{
 				cout<<"Prime Number";
 				exit(1);
-			}
+			} 
 		}
 	}
 }
