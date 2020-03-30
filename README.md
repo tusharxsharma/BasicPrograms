@@ -12,3 +12,4 @@
     10.   *Decimal to Binary*
     11.   *Alphabet Triangle*
     12.   *Number Triangle*
+    13.   *Number to Alphabet*
