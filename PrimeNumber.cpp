@@ -9,7 +9,7 @@ int main()
 		cout<<"Number is lesser than 2 and not applicable";
 	else
 	{
-		for(x=2;x<n;x++)
+		for(x=2;x<n/2;x++)
 		{
 			if(n%x==0)
 			{
